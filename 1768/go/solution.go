@@ -1,4 +1,4 @@
-package solution
+package Solution1768
 
 import (
 	"strings"
