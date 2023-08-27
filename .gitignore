@@ -6,3 +6,7 @@
 build
 
 *.pyc
+# Ignore vscode
+.vscode
+# Ignore Dev-Container
+.devcontainer
